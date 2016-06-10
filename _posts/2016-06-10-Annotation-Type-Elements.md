@@ -4,9 +4,9 @@ title:  "Annotation Type Elements"
 categories: java
 ---
 
-###Annotation Type Elements
-
+### Annotation Type Elements
 Annotation에 허용되는 Type은 아래와 같다.
+
 - A primitive type
 - String
 - Class or an invocation of Class
