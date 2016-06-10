@@ -4,6 +4,9 @@ title:  "Annotation Type Elements"
 main-class: 'java'
 color: '#EB7728'
 categories: java
+tags:
+- java
+- annotation
 ---
 
 ### Annotation Type Elements
