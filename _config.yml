@@ -1,14 +1,14 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: A blog about p2bigpeer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://p2bigpeer.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: p2BigPeer
-email: anon@anon.com
-twitter_username: blankbob
+username: bigpeer
+user_description: Developer at 
+user_title: peer.2.bigpeer
+email: peer.to.bigpeer_blogs@gmail.com
+twitter_username: bigpeer
 github_username:  p2bigpeer
 gplus_username:  peer.to.bigpeer
 #disqus_username: lorem_ipsum
