@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Annotation Type Elements"
-date:   2016-06-10 10:40:57 +0900
 categories: java
 ---
 
